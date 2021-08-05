@@ -1,0 +1,1 @@
+CREATE DATABASE go_crud_example;

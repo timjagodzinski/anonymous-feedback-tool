@@ -1,0 +1,4 @@
+{
+  "/fruits": "all",
+  "/fruits/{id}": "all"
+}
